@@ -1,0 +1,9 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Hvor
+description: |
+---
+Vielsen vil foregå i Storetveit Kirke. Nærmeste busstopp er Storetveit.
+Middag og fest er på Grand Selskapslokale som ligger rett ved siden av festplassen vis-à-vis Hotell Norge.
