@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Hvor
+title: Lokasjon
 description: |
 ---
 Vielsen vil foregå i Storetveit Kirke. Nærmeste busstopp er Storetveit.
