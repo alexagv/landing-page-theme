@@ -42,7 +42,11 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    {% if post.title == 'Hvor' %}
+                    <iframe src="https://www.google.com/maps/d/embed?mid=1WKWj251heX3Jbrr8HIgAH7Ceg3Wow-zl&ehbc=2E312F" width="auto" height="auto"></iframe>
+                    {% else %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    {% endif %}
                 </div>
             </div>
 
