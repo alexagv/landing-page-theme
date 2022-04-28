@@ -1,6 +1,6 @@
 ---
 layout: default
-img: polaroid.jpg
+img: polaroid2.jpg
 category: Services
 title: Nyttig info
 description: |
