@@ -5,9 +5,9 @@ category: Services
 title: Vielse
 description: |
 ---
-Vielsen finner sted i Storetveit kirke kl 14:00. <br />
+Vielsen finner sted i Storetveit kirke. <br />
 Nærmeste busstopp er Storetveit (5 min) og nærmeste bybanestopp er Fantoft (11min). <br />
 Det er gode parkeringsmuligheter utenfor kirken. <br />
 
-<b>Sted:</b> Kirkeveien 27, 5072 Bergen
-<b>Tid:</> 14:00
+<b>Sted:</b> Kirkeveien 27, 5072 Bergen <br />
+<b>Tid:</b> 14:00
