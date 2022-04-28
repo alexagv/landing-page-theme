@@ -1,0 +1,11 @@
+---
+layout: default
+img: 1083px-Storetveit_kirke.jpg
+category: Services
+title: Vielse
+description: |
+---
+Vielsen finner sted i Storetveit kirke kl 14:00. 
+Adresse: Kirkeveien 27, 5072 Bergen
+For å komme seg til kirken kan man benytte buss, bybane eller bil.
+Det er gode parkeringsmuligheter utenfor kirken.
