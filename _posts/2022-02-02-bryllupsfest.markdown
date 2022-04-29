@@ -6,7 +6,7 @@ title: Bryllupsfest
 description: |
 ---
 Etter vielsen samles vi på Grand Selskapslokaler for mottagelse med påfølgende middag og bryllupsfest.<br />
-Lokalet ligger midt mellom Den blå steinen og Musikkpaviljongen.
+Lokalet ligger midt mellom Den blå steinen og Musikkpaviljongen i Bergen sentrum.
 
 Bordsetting vil være ca. kl. 17:00
 
