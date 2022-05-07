@@ -11,4 +11,4 @@ Lokalet ligger midt mellom Den blå steinen og Musikkpaviljongen i Bergen sentru
 Bordsetting vil være ca. kl. 17:00.
 
 <b>Sted:</b> Grand Bergen, Nedre Ole Bulls plass 1 <br />
-<b>Tid:</b> 15:30 - 02:00
+<b>Tid:</b> 16:00 - 02:00
