@@ -3,7 +3,7 @@ layout: default
 img: polaroid2.jpg
 category: Services
 title: Nyttig info
-description: |
+description: info
 ---
 <b>Kleskode:</b> Smoking eller mørk dress <br />
 
