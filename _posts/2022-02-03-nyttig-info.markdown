@@ -14,5 +14,5 @@ Ellers blir vi glad for kreative gaver eller bidrag til bryllupsreisen.<br />
 
 <b>Ønsker du å holde tale?</b> Ta kontakt med vår toastmaster på forhånd.<br />
 
-<b>Toastmaster:</b> Susanne Grønner tlf. <script type="text/javascript">document.write('\u0039\u0031\u0037\u0036\u0031\u0031\u0038\u0037')</script>, <script type="text/javascript">document.write('\u0073\u0075\u0073\u0061\u006e\u006e\u0065\u002e\u0067\u0072\u006f\u006e\u006e\u0065\u0072\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script>
+<b>Toastmaster:</b> Christian Fredrik tlf. <script type="text/javascript">document.write('\u0039\u0031\u0033\u0032\u0038\u0035\u0038\u0032')</script>, <script type="text/javascript">document.write('\u0063\u0066\u0076\u0065\u0064\u0065\u006c\u0065\u0072\u0040\u0067\u006d\u0061\u0069\u006c\u002e\u0063\u006f\u006d')</script>
 
